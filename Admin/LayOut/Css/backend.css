@@ -1,0 +1,132 @@
+/***** Style For All Input  ******/
+input[type="submit"]
+{
+    cursor: pointer;
+}
+/*
+************ Start Style Page Login************************
+*/
+div.Login
+{
+    height: auto;
+    margin: 100px auto;
+    box-shadow: 4px 6px 5px 5px rgba(0,0,0,0.15);
+    
+}
+div.Login h5.card-title
+{
+    border-bottom:1px solid #668a8a;
+
+}
+div.Login form input[type="submit"]
+{
+    cursor:pointer;
+}
+div.Login div.card-body
+{
+    background-color: #f8f9fa !important;
+
+}
+
+/*
+************ End Style Page Login************************
+*/
+
+
+
+
+/*
+************  Start Style Page DashBoard ************************
+*/
+
+/* Style For NavBar */
+
+nav
+{
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.15); 
+}
+/* Style For Icon */
+i.cpanel
+{
+    font-size: 1.5rem;
+    
+}
+
+
+/* Style For Dropdown */
+.navbar-light .x .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show, 
+.navbar-light .navbar-nav .show>.nav-link,
+.dropdown-item
+{
+    background-color: #17a2b8 !important;
+    color:#fff;
+   
+}
+.dropdown-item:focus, .dropdown-item:hover
+{
+    background-color: #f8f9fa !important;
+    
+}
+
+.dropdown-menu
+{
+    padding: 0;
+    margin: 0;
+    top: 100%;
+    left: -69px;
+    border: none;
+ 
+}
+
+.dropdown-menu>a
+{
+    padding: .5rem 1.5rem; 
+     
+}
+
+
+/*
+************  End Style Page DashBoard ************************
+*/
+
+
+
+
+/*
+************  Start Style For Sidbar ************************
+*/
+
+
+.w3-button:hover
+{
+    color: #f1f1f1!important;
+    background-color: #dc3545!important;
+    border-radius: .50rem;
+}
+.w3-bar-block .w3-bar-item
+{
+    text-align: center;
+    padding: 1rem;
+ 
+}
+.w3-sidebar a
+{
+    text-decoration:none;
+}
+
+.w3-sidebar
+{
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.15); 
+}
+
+/*
+************  End Style For Sidbar ************************
+*/
+
+
+
+
+
+
